@@ -1,0 +1,26 @@
+# Project: Markdown-to-HTML Converter
+
+## Environment
+- Python virtual environment at .venv/ (already created)
+- Run all Python commands with: .venv/bin/python
+- Run tests with: .venv/bin/python -m pytest -v --tb=short
+- Do NOT install any packages. No pip install. Standard library only.
+
+## Workspace Rules
+- test_converter.py is PRE-WRITTEN and defines your acceptance criteria. Do NOT modify it.
+- All source code goes in the markdown_converter/ package directory.
+- The public API is: from markdown_converter import convert
+
+## Workflow
+1. First: read test_converter.py to understand what's expected
+2. Run pytest to see all failing tests
+3. Implement modules one at a time: lexer.py, parser.py, inline_parser.py, renderer.py, converter.py, __init__.py
+4. Run pytest after each module to check progress
+5. Fix failures with targeted patches, not full file rewrites
+6. Stop when all tests pass
+
+## If Retrying After a Previous Attempt
+- Files from the previous attempt may already exist in markdown_converter/
+- Run pytest FIRST to see which tests already pass
+- Do NOT rewrite files whose tests are already passing
+- Focus only on files that are missing or whose tests fail

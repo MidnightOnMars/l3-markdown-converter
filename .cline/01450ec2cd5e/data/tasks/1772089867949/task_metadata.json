@@ -1,0 +1,22 @@
+{
+  "files_in_context": [],
+  "model_usage": [
+    {
+      "ts": 1772089868023,
+      "model_id": "GPT-OSS-120B",
+      "model_provider_id": "openai",
+      "mode": "act"
+    }
+  ],
+  "environment_history": [
+    {
+      "ts": 1772089868021,
+      "os_name": "linux",
+      "os_version": "6.8.0-101-generic",
+      "os_arch": "x64",
+      "host_name": "Cline CLI - Node.js",
+      "host_version": "2.5.0",
+      "cline_version": "3.67.1"
+    }
+  ]
+}

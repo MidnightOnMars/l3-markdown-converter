@@ -1,0 +1,41 @@
+{
+  "remoteRulesToggles": {},
+  "remoteWorkflowToggles": {},
+  "actModeApiProvider": "openai",
+  "planModeApiProvider": "openai",
+  "actModeOpenAiModelId": "local-120b",
+  "planModeOpenAiModelId": "local-120b",
+  "openAiBaseUrl": "http://127.0.0.1:8628/v1",
+  "welcomeViewCompleted": true,
+  "autoApprovalSettings": {
+    "version": 14,
+    "enabled": true,
+    "favorites": [],
+    "maxRequests": 20,
+    "actions": {
+      "readFiles": true,
+      "readFilesExternally": true,
+      "editFiles": true,
+      "editFilesExternally": true,
+      "executeSafeCommands": true,
+      "executeAllCommands": false,
+      "useBrowser": false,
+      "useMcp": true
+    },
+    "enableNotifications": false
+  },
+  "workspaceRoots": [
+    {
+      "path": "/mnt/main/tmp/straylight-workspaces/l3-markdown-converter-v12/workspace",
+      "name": "workspace",
+      "vcs": "git"
+    }
+  ],
+  "primaryRootIndex": 0,
+  "globalWorkflowToggles": {},
+  "globalClineRulesToggles": {},
+  "actModeThinkingBudgetTokens": 0,
+  "planModeThinkingBudgetTokens": 0,
+  "nativeToolCallEnabled": true,
+  "isNewUser": false
+}

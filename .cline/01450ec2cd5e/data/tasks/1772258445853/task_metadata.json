@@ -1,0 +1,79 @@
+{
+  "files_in_context": [
+    {
+      "path": "markdown_parser.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772258469734,
+      "cline_edit_date": 1772258469734,
+      "user_edit_date": null
+    },
+    {
+      "path": "test_markdown_parser.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772258481226,
+      "cline_edit_date": 1772258481226,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_parser.py",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1772258497582,
+      "cline_edit_date": 1772258469734,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_parser.py",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1772258497672,
+      "cline_edit_date": 1772258469734,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_parser.py",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1772258497767,
+      "cline_edit_date": 1772258469734,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_parser.py",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1772258497858,
+      "cline_edit_date": 1772258469734,
+      "user_edit_date": null
+    },
+    {
+      "path": "test_markdown_parser.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772258508939,
+      "cline_edit_date": 1772258508939,
+      "user_edit_date": null
+    }
+  ],
+  "model_usage": [
+    {
+      "ts": 1772258445920,
+      "model_id": "local-120b",
+      "model_provider_id": "openai",
+      "mode": "act"
+    }
+  ],
+  "environment_history": [
+    {
+      "ts": 1772258445918,
+      "os_name": "linux",
+      "os_version": "6.8.0-101-generic",
+      "os_arch": "x64",
+      "host_name": "Cline CLI - Node.js",
+      "host_version": "2.5.0",
+      "cline_version": "3.67.1"
+    }
+  ]
+}

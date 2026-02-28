@@ -1,0 +1,79 @@
+{
+  "files_in_context": [
+    {
+      "path": "calculator.py",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1772090320205,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "test_calculator.py",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1772090344696,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "calculator.py",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1772090346856,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "test_calculator.py",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1772090348622,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "test_calculator.py",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1772090349564,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "test_calculator.py",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1772090350592,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "calculator.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772090358174,
+      "cline_edit_date": 1772090358174,
+      "user_edit_date": null
+    }
+  ],
+  "model_usage": [
+    {
+      "ts": 1772090309979,
+      "model_id": "GPT-OSS-120B",
+      "model_provider_id": "openai",
+      "mode": "act"
+    }
+  ],
+  "environment_history": [
+    {
+      "ts": 1772090309977,
+      "os_name": "linux",
+      "os_version": "6.8.0-101-generic",
+      "os_arch": "x64",
+      "host_name": "Cline CLI - Node.js",
+      "host_version": "2.5.0",
+      "cline_version": "3.67.1"
+    }
+  ]
+}

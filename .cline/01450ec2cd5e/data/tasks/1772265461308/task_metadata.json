@@ -1,0 +1,127 @@
+{
+  "files_in_context": [
+    {
+      "path": "test_converter.py",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1772265472703,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/__init__.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265494178,
+      "cline_edit_date": 1772265494178,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/lexer.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265522057,
+      "cline_edit_date": 1772265522057,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/parser.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265526800,
+      "cline_edit_date": 1772265526800,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/inline_parser.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265531182,
+      "cline_edit_date": 1772265531182,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/renderer.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265535825,
+      "cline_edit_date": 1772265535825,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/converter.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265540498,
+      "cline_edit_date": 1772265540498,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/parser.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265596701,
+      "cline_edit_date": 1772265596701,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/inline_parser.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265601780,
+      "cline_edit_date": 1772265601780,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/renderer.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265607201,
+      "cline_edit_date": 1772265607201,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/converter.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265611922,
+      "cline_edit_date": 1772265611922,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/parser.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265644356,
+      "cline_edit_date": 1772265644356,
+      "user_edit_date": null
+    },
+    {
+      "path": "markdown_converter/renderer.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772265648848,
+      "cline_edit_date": 1772265648848,
+      "user_edit_date": null
+    }
+  ],
+  "model_usage": [
+    {
+      "ts": 1772265461365,
+      "model_id": "local-120b",
+      "model_provider_id": "openai",
+      "mode": "act"
+    }
+  ],
+  "environment_history": [
+    {
+      "ts": 1772265461363,
+      "os_name": "linux",
+      "os_version": "6.8.0-101-generic",
+      "os_arch": "x64",
+      "host_name": "Cline CLI - Node.js",
+      "host_version": "2.5.0",
+      "cline_version": "3.67.1"
+    }
+  ]
+}

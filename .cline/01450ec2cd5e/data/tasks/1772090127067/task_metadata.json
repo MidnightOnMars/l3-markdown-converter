@@ -1,0 +1,55 @@
+{
+  "files_in_context": [
+    {
+      "path": "hello.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772090144528,
+      "cline_edit_date": 1772090144528,
+      "user_edit_date": null
+    },
+    {
+      "path": "test_hello.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772090148691,
+      "cline_edit_date": 1772090148691,
+      "user_edit_date": null
+    },
+    {
+      "path": "hello.py",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1772090148915,
+      "cline_edit_date": 1772090144528,
+      "user_edit_date": null
+    },
+    {
+      "path": "test_hello.py",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1772090149123,
+      "cline_edit_date": 1772090148691,
+      "user_edit_date": null
+    }
+  ],
+  "model_usage": [
+    {
+      "ts": 1772090127129,
+      "model_id": "GPT-OSS-120B",
+      "model_provider_id": "openai",
+      "mode": "act"
+    }
+  ],
+  "environment_history": [
+    {
+      "ts": 1772090127127,
+      "os_name": "linux",
+      "os_version": "6.8.0-101-generic",
+      "os_arch": "x64",
+      "host_name": "Cline CLI - Node.js",
+      "host_version": "2.5.0",
+      "cline_version": "3.67.1"
+    }
+  ]
+}

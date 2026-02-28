@@ -1,0 +1,31 @@
+{
+  "files_in_context": [
+    {
+      "path": "hello.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1772175748742,
+      "cline_edit_date": 1772175748742,
+      "user_edit_date": null
+    }
+  ],
+  "model_usage": [
+    {
+      "ts": 1772175736178,
+      "model_id": "GPT-OSS-120B",
+      "model_provider_id": "openai",
+      "mode": "act"
+    }
+  ],
+  "environment_history": [
+    {
+      "ts": 1772175736176,
+      "os_name": "linux",
+      "os_version": "6.8.0-101-generic",
+      "os_arch": "x64",
+      "host_name": "Cline CLI - Node.js",
+      "host_version": "2.5.0",
+      "cline_version": "3.67.1"
+    }
+  ]
+}
